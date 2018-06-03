@@ -9,6 +9,7 @@ public class StringA {
 		s1=s1.concat("soft");
 		System.out.println(s1);
 		System.out.println(s2);
+		System.out.println(s2);
 		
 	}
 	
